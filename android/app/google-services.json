@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820114078330",
+    "project_id": "pooplemah-91329",
+    "storage_bucket": "pooplemah-91329.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820114078330:android:1aa31e5876dc43fe0d99c3",
+        "android_client_info": {
+          "package_name": "com.example.mad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfPPGLxwg0CvRJIA2UXVdS2JQyJ4TFtxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
